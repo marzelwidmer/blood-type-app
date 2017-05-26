@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/marzelwidmer/blood-type-app#readme",
   "dependencies": {
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
     "webpack": "^2.6.1"
   }
 }
