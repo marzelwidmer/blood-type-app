@@ -40,6 +40,7 @@ buildNumber.properties
 src/docs/asciidoc-resources/*.png
 src/docs/asciidoc-resources/*.tmp
 src/docs/asciidoc/*.tmp
+src/main/frontend/js/*min.js
 
 
 #OS meta files
