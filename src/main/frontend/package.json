@@ -1,0 +1,22 @@
+{
+  "name": "blood-type-app",
+  "version": "1.0.0",
+  "description": "The Blood Type Diat App",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marzelwidmer/blood-type-app.git"
+  },
+  "author": "Marcel Widmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marzelwidmer/blood-type-app/issues"
+  },
+  "homepage": "https://github.com/marzelwidmer/blood-type-app#readme",
+  "dependencies": {
+    "webpack": "^2.6.1"
+  }
+}
