@@ -1,0 +1,24 @@
+blood-type-app
+==============
+
+:toc:
+:toc-placement: preamble
+:toclevels: 1
+:project-artifact-name: angular-springboot
+
+// Need some preamble to get TOC:
+{empty}
+
+[installation]
+== Installation
+
+:spring-boot-ref-guide: http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
+:spring-boot-ref-guide-executable-jar: http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started-first-application-executable-jar
+
+
+=== Build Application:
+ $ mvn package
+
+Copy the file {project-artifact-name}.jar anywhere on the server.
+The JAR already contains the configuration for all available environments.
+For further information please visit the  {spring-boot-ref-guide}[Spring Boot Reference Guide]
