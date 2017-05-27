@@ -18,7 +18,7 @@ blood-type-app
 
 
 === Build Frontend:
-install 
+to install only the frontend move in the folder 'src/main/frontend'
 
  $ npm install  
 
@@ -32,7 +32,7 @@ run webpack watch to watch changes
 
  $ webpack --watch  
  
- 
+
 === Build Application:
  $ mvn package
 
