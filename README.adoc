@@ -22,23 +22,9 @@ to install only the frontend move in the folder 'src/main/frontend'
 
  $ npm install  
 
+ run 'webpack-dev-server' http://localhost:8080/
 
-run webpack
-
- $ webpack  
-
- 
-run webpack watch to watch changes
-
- $ webpack --watch  
- 
-install 'webpack-dev-server' globally 
-
- $ npm install -g webpack-dev-server
- 
-run 'webpack-dev-server' on http://localhost:8080/ for source folder
-
- $ webpack-dev-server --content-base src
+ $ npm run dev  
 
 
 === Build Application:
