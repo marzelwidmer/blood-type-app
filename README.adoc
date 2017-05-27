@@ -32,6 +32,14 @@ run webpack watch to watch changes
 
  $ webpack --watch  
  
+install 'webpack-dev-server' globally 
+
+ $ npm install -g webpack-dev-server
+ 
+run 'webpack-dev-server' on http://localhost:8080/ for source folder
+
+ $ webpack-dev-server --content-base src
+
 
 === Build Application:
  $ mvn package
