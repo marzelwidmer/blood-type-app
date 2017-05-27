@@ -22,7 +22,7 @@ to install only the frontend move in the folder 'src/main/frontend'
 
  $ npm install  
 
- run 'webpack-dev-server' http://localhost:8080/
+run 'webpack-dev-server' http://localhost:8080/
 
  $ npm run dev  
 
