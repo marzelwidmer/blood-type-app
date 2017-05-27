@@ -24,13 +24,15 @@ install
 
 
 run webpack
- $ webpack
 
+ $ webpack  
+
+ 
 run webpack watch to watch changes
- $ webpack --watch
 
-
-
+ $ webpack --watch  
+ 
+ 
 === Build Application:
  $ mvn package
 
