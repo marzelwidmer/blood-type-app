@@ -18,13 +18,16 @@ blood-type-app
 
 
 === Build Frontend:
-Install 
+install 
 
  $ npm install  
 
 
-Run webpack
+run webpack
  $ webpack
+
+run webpack watch to watch changes
+ $ webpack --watch
 
 
 
