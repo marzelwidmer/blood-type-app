@@ -33,3 +33,21 @@ run 'webpack-dev-server' http://localhost:8080/
 Copy the file {project-artifact-name}.jar anywhere on the server.
 The JAR already contains the configuration for all available environments.
 For further information please visit the  {spring-boot-ref-guide}[Spring Boot Reference Guide]
+
+
+
+=== Links and other Stuff
+Install _create-react-app_
+
+ $ npm install -g create-react-app
+
+Create Reacte structure
+
+ $ create-react-app app
+
+
+Others :
+
+    https://www.youtube.com/watch?v=qCSe_yUCFEI&t=6s
+    https://www.youtube.com/watch?v=qh3dYM6Keuw
+
