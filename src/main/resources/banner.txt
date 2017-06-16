@@ -1,0 +1,25 @@
+${AnsiColor.BRIGHT_BLUE}
+${AnsiColor.BRIGHT_BLUE}
+${AnsiColor.BRIGHT_BLUE}KKKKKKKKK    KKKKKKK                                                                    CCCCCCCCCCCCC                  lllllll
+${AnsiColor.BRIGHT_BLUE}K:::::::K    K:::::K                                                                 CCC::::::::::::C                  l:::::l
+${AnsiColor.BRIGHT_BLUE}K:::::::K    K:::::K                                                               CC:::::::::::::::C                  l:::::l
+${AnsiColor.BRIGHT_BLUE}K:::::::K   K::::::K                                                              C:::::CCCCCCCC::::C                  l:::::l
+${AnsiColor.BRIGHT_BLUE}KK::::::K  K:::::KKK    eeeeeeeeeeee        eeeeeeeeeeee    ppppp   ppppppppp    C:::::C       CCCCCC  aaaaaaaaaaaaa    l::::l    mmmmmmm    mmmmmmm
+${AnsiColor.BRIGHT_BLUE}  K:::::K K:::::K     ee::::::::::::ee    ee::::::::::::ee  p::::ppp:::::::::p  C:::::C                a::::::::::::a   l::::l  mm:::::::m  m:::::::mm
+${AnsiColor.BRIGHT_BLUE}  K::::::K:::::K     e::::::eeeee:::::ee e::::::eeeee:::::eep:::::::::::::::::p C:::::C                aaaaaaaaa:::::a  l::::l m::::::::::mm::::::::::m
+${AnsiColor.BRIGHT_BLUE}  K:::::::::::K     e::::::e     e:::::ee::::::e     e:::::epp::::::ppppp::::::pC:::::C                         a::::a  l::::l m::::::::::::::::::::::m
+${AnsiColor.BRIGHT_BLUE}  K:::::::::::K     e:::::::eeeee::::::ee:::::::eeeee::::::e p:::::p     p:::::pC:::::C                  aaaaaaa:::::a  l::::l m:::::mmm::::::mmm:::::m
+${AnsiColor.BRIGHT_BLUE}  K::::::K:::::K    e:::::::::::::::::e e:::::::::::::::::e  p:::::p     p:::::pC:::::C                aa::::::::::::a  l::::l m::::m   m::::m   m::::m
+${AnsiColor.BRIGHT_BLUE}  K:::::K K:::::K   e::::::eeeeeeeeeee  e::::::eeeeeeeeeee   p:::::p     p:::::pC:::::C               a::::aaaa::::::a  l::::l m::::m   m::::m   m::::m
+${AnsiColor.BRIGHT_BLUE}KK::::::K  K:::::KKKe:::::::e           e:::::::e            p:::::p    p::::::p C:::::C       CCCCCCa::::a    a:::::a  l::::l m::::m   m::::m   m::::m
+${AnsiColor.BRIGHT_BLUE}K:::::::K   K::::::Ke::::::::e          e::::::::e           p:::::ppppp:::::::p  C:::::CCCCCCCC::::Ca::::a    a:::::a l::::::lm::::m   m::::m   m::::m
+${AnsiColor.BRIGHT_BLUE}K:::::::K    K:::::K e::::::::eeeeeeee   e::::::::eeeeeeee   p::::::::::::::::p    CC:::::::::::::::Ca:::::aaaa::::::a l::::::lm::::m   m::::m   m::::m
+${AnsiColor.BRIGHT_BLUE}K:::::::K    K:::::K  ee:::::::::::::e    ee:::::::::::::e   p::::::::::::::pp       CCC::::::::::::C a::::::::::aa:::al::::::lm::::m   m::::m   m::::m
+${AnsiColor.BRIGHT_BLUE}KKKKKKKKK    KKKKKKK    eeeeeeeeeeeeee      eeeeeeeeeeeeee   p::::::pppppppp            CCCCCCCCCCCCC  aaaaaaaaaa  aaaallllllllmmmmmm   mmmmmm   mmmmmm
+${AnsiColor.BRIGHT_BLUE}                                                             p:::::p
+${AnsiColor.BRIGHT_BLUE}                                                             p:::::p                            ${info.build.name}
+${AnsiColor.BRIGHT_BLUE}                                                            p:::::::p                           ${info.build.description}
+${AnsiColor.BRIGHT_BLUE}                                                            p:::::::p                           ${info.build.version}
+${AnsiColor.BRIGHT_BLUE}                                                            p:::::::p                           address:${server.address}
+${AnsiColor.BRIGHT_BLUE}                                                            ppppppppp                           port:${server.port}
+${AnsiColor.BRIGHT_BLUE}
