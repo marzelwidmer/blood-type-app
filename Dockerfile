@@ -6,8 +6,8 @@ RUN apt-get update
 	# Remove package lists to free up space
 	&& rm -rf /var/lib/apt/lists/*
 #
-#ADD . /App/
-#RUN mv /App/run.sh /run.sh
+ADD . /App/
+RUN mv /App/run.sh /run.sh
 #
-#CMD ["bash", "run.sh"]
+CMD ["bash", "run.sh"]
 
