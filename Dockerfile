@@ -1,3 +1,1 @@
-FROM maven:3
-RUN bash -c 'mvn install'
-
+FROM 3.5.0-jdk-8
