@@ -75,7 +75,8 @@
 	</dependencies>
 
 	<build>
-		<finalName>${project.name}-${project.version}</finalName>
+		<finalName>${project.name}</finalName>
+		<!--<finalName>${project.name}-${project.version}</finalName>-->
 		<!-- Used for Nexus Upload -->
 		<extensions>
 			<extension>
@@ -91,6 +92,8 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
+
 
 			<!-- Docker -->
 			<plugin>
@@ -118,7 +121,6 @@
 					</imageTags>
 				</configuration>
 			</plugin>
-
 
 
 
